@@ -27,3 +27,5 @@ Flixup is an app that allows users to browse movies from the [The Movie Database
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4TX7po2"  ><a href="//imgur.com/a/4TX7po2">Too bad they aren’t located in Texas.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
