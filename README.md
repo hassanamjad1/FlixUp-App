@@ -17,7 +17,8 @@ Flixup is an app that allows users to browse movies from the [The Movie Database
 
 ### App Walkthrough GIF
 
-<img src="https://media.giphy.com/media/kC410wg9SmhHaQM2ks/giphy.gif" width=250><br> <img src="https://media.giphy.com/media/DFMwzOA2wC8Jt8qLTU/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/kC410wg9SmhHaQM2ks/giphy.gif" width=250><br> 
+<img src="https://media.giphy.com/media/DFMwzOA2wC8Jt8qLTU/giphy.gif" width=250><br>
 
 
 ---
